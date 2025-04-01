@@ -82,7 +82,8 @@
             "pages": [
               "controlPanel/scheduledBackups",
               "controlPanel/creatingSubusers",
-              "controlPanel/accountInformation"
+              "controlPanel/accountInformation",
+              "controlPanel/miscellaneous"
             ]
           }
         ]
