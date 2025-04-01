@@ -83,7 +83,8 @@
               "controlPanel/scheduledBackups",
               "controlPanel/creatingSubusers",
               "controlPanel/accountInformation",
-              "controlPanel/miscellaneous"
+              "controlPanel/miscellaneous",
+              "controlPanel/supportedGames"
             ]
           }
         ]
